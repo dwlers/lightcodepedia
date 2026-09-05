@@ -24,8 +24,10 @@
 /micro_build_ai	1/1	0/0	2026-07-10T11:18:19.919Z
 /micro_build_ai/help-lucky	1/1	0/0	2026-07-11T21:39:02.068Z
 /tutorial101	3/3	0/0	2026-08-10T16:43:35.324Z
-gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T22:00:55.955Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-03T05:34:35.532Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-03T05:35:01.468Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-03T05:35:14.188Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	2/2	0/0	2026-08-05T19:32:47.230Z
-crc e4e114d8
+crc 1f88ec64
