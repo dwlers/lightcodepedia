@@ -1,4 +1,4 @@
 ---
 bio: true
 ---
-I joined because I am trying to do this assignment, in order to get a good grade in this class, and I want a good grade because I want to show that I thoroughly understand the material offered in the class.
+I am a student at UWM taking the class INFOST490 in the fall semester of 2026.
