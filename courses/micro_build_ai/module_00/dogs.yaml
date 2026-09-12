@@ -56,17 +56,17 @@
   breed: Husky mix
   age: 2
   fee: 180
-  campus: Milwauke
+  campus: Milwaukee
   pic: 110
 - name: Biscuit
   breed: Beagle
   age: 4
   fee: 150
-  campus: MKE
+  campus: Milwaukee
   pic: 111
 - name: Nova
   breed: Lab
   age: 1
   fee: 180
-  campus: Downtown
+  campus: Milwaukee
   pic: 112
