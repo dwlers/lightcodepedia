@@ -27,10 +27,11 @@
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-03T05:34:35.532Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	0/0	2026-09-03T05:35:01.468Z
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-03T05:35:14.188Z
+gh:michelzam/lightcodepedia/docs/_410/databases/module_02/01_hunt	1/1	0/0	2026-09-13T00:33:09.743Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	2/2	0/0	2026-08-05T19:32:47.230Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	3/3	1/1	2026-09-12T23:49:25.481Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/02_monday_after	2/2	1/1	2026-09-10T17:40:29.229Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/03_concepts	3/3	1/1	2026-09-12T23:29:19.127Z
-crc d48249f8
+crc a98969be
