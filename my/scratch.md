@@ -12,4 +12,33 @@ word you want colored Curlybracket colon periodcolor curlybracket
 
 1. Step one
 1. Step two
-1.
+1. Step three
+
+```python
+print("Hello, world!")
+
+```
+{: .run}
+
+
+```yaml
+- name: Lucky
+  age: 3
+  breed: Beagle
+- name: Wanda
+  age: 5
+  breed: Poodle
+```
+{: .datagrid }
+
+
+| My   | Table |
+|------|-------|
+|  It  | Has   |
+|Four  | Cells |
+
+>The Die Is Cast
+
+>Speaker note test 
+
+{: .speaker-note }
