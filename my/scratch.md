@@ -45,4 +45,5 @@ print("Hello, world!")
 
 This is another test[^tst]
 
-[^tst]: — **test** What can I do to get this to work?
+[^tst]: Whydoesthisonlyworkwhentherearenospacesandtakemedoaanotherpage?
+
