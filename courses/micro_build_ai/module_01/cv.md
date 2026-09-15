@@ -1,4 +1,5 @@
-# David Lers (Volunteer)
+# David Lers (Volunteer 2027)
+
 
 ## Introduction
 Hello! I am interested in applying as a **volunteer** at your shelter. I am a computer science student learning about coding and databases, and believe I can be a benefit to your organization. 
@@ -17,13 +18,13 @@ I have also reviewed the list of animals you *currently* have sheltered, as they
 ## Skills 
 ##### My Skills and the dates I reached proficiency in them are as follows:
 
-+ HTML (05/21/2027)
++ HTML 
 
-+ Markdown (06/19/2027)
++ Markdown 
 
-+ Python (07/22/2027)
++ Python 
 
-+ SQL  (08/20/2027)
++ SQL 
 
 You can contact me by email by clicking this [link](mailto:dwlers@uwm.edu)!
 
