@@ -15,15 +15,15 @@ I have also reviewed the list of animals you *currently* have sheltered, as they
 1. Peanut
 
 ## Skills 
-##### My future skills will be
+##### My Skills and the dates I reached proficiency in them are as follows:
 
-+ HTML
++ HTML (05/21/2027)
 
-+ Markdown
++ Markdown (06/19/2027)
 
-+ Python
++ Python (07/22/2027)
 
-+ SQL
++ SQL  (08/20/2027)
 
 You can contact me by email by clicking this [link](mailto:dwlers@uwm.edu)!
 
