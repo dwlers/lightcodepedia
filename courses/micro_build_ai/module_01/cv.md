@@ -1,4 +1,4 @@
-# David Lers (Volunteer) 09/10/2027
+# David Lers (Volunteer)
 
 
 ## Introduction
@@ -6,6 +6,8 @@ Hello! I am interested in applying as a **volunteer** at your shelter. I am a co
 
 ## Experience
 I have **educational experience** with *information technologies and coding languages*{: .green}, as well as **personal & professional** experience in *working with various types of sheltered animals*{: .blue}.
+
+I will be proficient w/ the languages I entered on my list of skills by 09/10/2027. 
 
 I have also reviewed the list of animals you *currently* have sheltered, as they seem like the cutest and friendliest from their pictures online. My top 3 are as follows
 
