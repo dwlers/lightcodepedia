@@ -42,3 +42,7 @@ print("Hello, world!")
 >Speaker note test 
 
 {: .speaker-note }
+
+This is another test[^tst]
+
+[^tst]: — **test** What can I do to get this to work?
