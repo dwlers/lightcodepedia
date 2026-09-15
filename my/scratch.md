@@ -1,2 +1,15 @@
-## My scratch space
-Whatever you write here is **yours** — saved in your repo, not this page's.
+# David 
+*Word* {:.green}
+word you want colored Curlybracket colon periodcolor curlybracket
+
+- first item
+
+* second item
+
++ third item
+
+{: .nofragments}
+
+1. Step one
+1. Step two
+1.
