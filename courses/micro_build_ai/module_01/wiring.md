@@ -11,7 +11,7 @@ Nova,180,Downtown
 ```csv
 ```
 
-{: .datagrid #wired source="dogs" height="200" title="🏠 Our dogs, by campus" empty="" }
+{: .datagrid #wired source="self.chart: Chart = self.page.fees" height="200" title="🏠 Our dogs, by campus" empty="" }
 
 ## 📊 Fees
 ```csv
