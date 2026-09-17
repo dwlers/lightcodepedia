@@ -1,5 +1,5 @@
 # lc-progress v1
-/components	1/1	0/0	2026-07-27T17:34:53.560Z
+/components	1/1	0/0	2026-09-17T16:47:44.470Z
 /components/accordion	3/3	0/0	2026-07-01T15:35:29.992Z
 /components/agent	1/1	0/0	2026-06-22T22:06:34.220Z
 /components/cards	2/2	0/0	2026-06-22T17:21:12.677Z
@@ -38,4 +38,5 @@ gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/02_monday_af
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/03_concepts	3/3	1/1	2026-09-12T23:29:19.127Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/01_volunteer	3/3	1/1	2026-09-16T02:16:35.824Z
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/02_north_burns	1/1	2/4	2026-09-16T22:23:21.453Z
-crc 18a2ae1d
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/03_broken_wire	0/0	0/1	2026-09-17T16:52:07.249Z
+crc 14564a52
